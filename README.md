@@ -1,6 +1,6 @@
 # COMP 2210: Assignment 1
 
-### This assignment focuses on implementing the methods of a class much like java.util.Arrays. The Selector.java file defines a class with static methods designed to provide useful functionality on arrays, with the common theme of selecting values in an array with particular properties. Each method of Selector is clearly specified, is independent of the other methods in the class, and is designed to provide relatively simple functionality. So, this is a great context in which to practice systematic, disciplined development and test-based verification.
+This assignment focuses on implementing the methods of a class much like java.util.Arrays. The Selector.java file defines a class with static methods designed to provide useful functionality on arrays, with the common theme of selecting values in an array with particular properties. Each method of Selector is clearly specified, is independent of the other methods in the class, and is designed to provide relatively simple functionality. So, this is a great context in which to practice systematic, disciplined development and test-based verification.
 
 - The Selector.java source code file is provided in the startercode folder in Vocareum. You can download Selector.java from Vocareum and work on your local machine.
 
